@@ -1,4 +1,4 @@
-# DistilBert_intetion_classifier
+# Korean_intetion_classifier
 ## Trainset: 3i4k dataset
 ## Result
 * Confusion matrix
