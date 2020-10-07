@@ -16,5 +16,6 @@
     * Accuracy: 90.30 %
     * Distribution
         -	Question, command, statement가 선명하게 구분된다. 
-        -	Rhetoricla question은 statement와 question 사이에 분포해 있다.
+        -	Rhetorical question은 statement와 question 사이에 분포해 있다.
+        -   Rhetorical command는 command와 statement 사이에 분포해 있다.
         -	Fragments와 unknown은 구분은 가능하나, 이웃하게 분포해 있다. 
