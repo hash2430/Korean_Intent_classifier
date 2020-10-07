@@ -1,10 +1,11 @@
 # Korean_intetion_classifier
 ## Trainset: 3i4k dataset
 ## Result
-* Confusion matrix
-![confusion_matrix](confusion_matrix_scikit_blues_with_label.png)
 
-* Classification visualization of 6000 < samples
+![confusion_matrix](confusion_matrix_scikit_blues_with_label.png)
+* RQ: Rhetorical question
+* RC: Rhetorical command
+* Classification visualization of 6121 test samples
 ![Classification result](intent_embedding_distribution.png)
     * class 마다 절대적인 샘플 수가 다르기 때문에 색의 진하기가 균일하지 못하다. 
     * 그러나 Rhetorical question을 제외하면 모든 카테고리에 대해 reasonable한 분류 성능을 낸다..
