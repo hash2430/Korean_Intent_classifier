@@ -2,7 +2,7 @@
 ## Trainset: 3i4k dataset
 ## Result
 * Confusion matrix
-![confusion_matrix](confusion_matrix_scikit_blues.png)
+![confusion_matrix](confusion_matrix_scikit_blues_with_label.png)
 
 * Classification visualization of 6000 < samples
 ![Classification result](intent_embedding_distribution.png)
