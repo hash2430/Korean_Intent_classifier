@@ -8,6 +8,7 @@
 ![Classification result](intent_embedding_distribution.png)
 
 * 결과 분석
+    * Accuracy: 90.30 %
     * Distribution
         -	Question, command, statement가 선명하게 구분된다. 
         -	Rhetoricla question은 statement와 question 사이에 분포해 있다.
